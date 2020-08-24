@@ -1,7 +1,7 @@
- 👉 ##Building a React Messenger App 💻
-👉  ##Deploying a React app with Firebase Hosting 🌐
-👉  ##Server-less cloud functions to process each of the messages sent 🚀
-👉  ##Real-time database with Firebase’s Firestore 🔥
+ 👉 Building a React Messenger App 💻
+👉  Deploying a React app with Firebase Hosting 🌐
+👉  Server-less cloud functions to process each of the messages sent 🚀
+👉  Real-time database with Firebase’s Firestore 🔥
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
